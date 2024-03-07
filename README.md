@@ -1,7 +1,5 @@
-
-
+<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=30,20:00C9FF,80:92FE9D&height=140&section=header"></a>
   
-
 
 
 # Alejandro Cárdenas Parejo
@@ -9,9 +7,6 @@
 Hi, I'm Alejandro from Spain. I make proyects as a way of study in 42Málaga. I really enjoy learning languages and frameworks like Javascript and React, as well as work in C mainly for 42.
 
 #### Programmer and web developer
-![Programmer and web developer](https://media.licdn.com/dms/image/D4E16AQFOEtEYSNszJw/profile-displaybackgroundimage-shrink_350_1400/0/1676075863169?e=1715212800&v=beta&t=Wi0KnGWfMEsBgKD5vVVMxrb3RRQh-nSwanT8-bmXClg)
-
-
 
 Skills: REACT / JS / HTML / CSS / C
 
