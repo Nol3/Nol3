@@ -6,7 +6,7 @@ Hi, I'm Alejandro from Spain. I make proyects as a way of study in 42Málaga. I 
 
 ## Programmer and web developer
 
-Skills: REACT<img src="https://skillicons.dev/icons?i=react"/> / JS<img src="https://skillicons.dev/icons?i=js"/> / HTML<img src="https://skillicons.dev/icons?i=html"/> / CSS<img src="https://skillicons.dev/icons?i=css"/> / C<img src="https://skillicons.dev/icons?i=c"/>
+Skills: <img src="https://skillicons.dev/icons?i=react"/> / <img src="https://skillicons.dev/icons?i=js"/> / <img src="https://skillicons.dev/icons?i=html"/> / <img src="https://skillicons.dev/icons?i=css"/> / <img src="https://skillicons.dev/icons?i=c"/>
 - 🔭 I’m currently working on My personal development 
 - 🌱 I’m currently learning C, C++ and Unity
 
