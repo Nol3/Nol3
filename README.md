@@ -6,13 +6,15 @@ Hi, I'm Alejandro from Spain. I make proyects as a way of study in 42Málaga. I 
 
 ## Programmer and web developer
 
-Skills: <img src="https://skillicons.dev/icons?i=react"/> / <img src="https://skillicons.dev/icons?i=js"/> / <img src="https://skillicons.dev/icons?i=html"/> / <img src="https://skillicons.dev/icons?i=css"/> / <img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=react"/>   <img src="https://skillicons.dev/icons?i=js"/>   <img src="https://skillicons.dev/icons?i=html"/>   <img src="https://skillicons.dev/icons?i=css"/>   <img src="https://skillicons.dev/icons?i=c"/>
 - 🔭 I’m currently working on My personal development 
 - 🌱 I’m currently learning C, C++ and Unity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nol3)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nol3) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alejandro-cardenas-parejo//)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&random=false&width=435&lines=To+contact+me%3A+alejandrocp.dev%40gmail.com;alejandrocp.dev%40gmail.com)](https://git.io/typing-svg)
+
+
 
 
 <a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:92FE9D,10:00C9FF:&&height=140&section=footer"></a>
