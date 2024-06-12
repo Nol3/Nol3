@@ -8,7 +8,7 @@ Hi, I'm Alejandro from Spain. I make proyects as a way of study in 42Málaga. I 
 
 <img src="https://skillicons.dev/icons?i=react"/>   <img src="https://skillicons.dev/icons?i=js"/>   <img src="https://skillicons.dev/icons?i=html"/>   <img src="https://skillicons.dev/icons?i=css"/>   <img src="https://skillicons.dev/icons?i=c"/>
 - 🔭 I’m currently working on My personal development 
-- 🌱 I’m currently learning C, C++ and Unity
+- 🌱 I’m currently learning C, C++, C#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nol3)](https://github.com/anuraghazra/github-readme-stats)
 
